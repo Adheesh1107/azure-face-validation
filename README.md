@@ -34,8 +34,8 @@ This project allows users to upload two images to validate whether they match. T
 
 1. **Clone the repository**:
    ```
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Adheesh1107/azure-face-validation.git
+   cd azure-face-validation
    ```
 2. Set up the backend (Flask server): Navigate to the server folder:
     ```
