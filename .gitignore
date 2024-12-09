@@ -1,0 +1,6 @@
+.DS_Store
+.env
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
